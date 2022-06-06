@@ -1,5 +1,5 @@
-# CMAC
-This respository contains code to implement CMAC architecture. CMAC stands for Cerebellar Model Articulation Controller. The model has been trained to learn the function for 2D parabolic curve.
+# Cerebellar Model Articulation Controller (CMAC)
+This respository contains code to implement CMAC architecture. The model has been trained to learn the function for 2D parabolic curve.
 
 ## Instructions to run the code:
 ```
